@@ -1,7 +1,6 @@
 <div align=center><img width="343" alt="maielyhotel_logo" src="https://user-images.githubusercontent.com/63541271/136644619-c71efda3-942d-458d-8085-8455f79952de.png"></div>
 
 # MAEILYHOTEL Project
-## Description
 - 숙소 플랫폼 "데일리 호텔"을 모티브로 하여 국내 숙소 예약 서비스 개발
 - 개발 기간 : 2021.08.17 ~ 2021.08.27
 - 개발 인원 : Front-end 3명 Back-end 2명
